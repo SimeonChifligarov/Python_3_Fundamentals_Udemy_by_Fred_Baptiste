@@ -1,6 +1,9 @@
 # Ignore the local Python fundamentals practice directory
 python-fundamentals-main/
 
+# Local / custom ignores
+/for_testing.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
