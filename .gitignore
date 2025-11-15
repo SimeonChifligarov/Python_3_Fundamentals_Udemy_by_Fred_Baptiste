@@ -4,6 +4,10 @@ python-fundamentals-main/
 # Local / custom ignores
 /for_testing.ipynb
 
+# Course data files for text-file practice (generated / not source)
+/19_Text_Files/02_Reading_Text_Files/*.txt
+/19_Text_Files/02_Reading_Text_Files/*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
