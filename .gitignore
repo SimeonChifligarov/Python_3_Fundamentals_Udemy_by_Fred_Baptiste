@@ -9,6 +9,8 @@ python-fundamentals-main/
 /19_Text_Files/02_Reading_Text_Files/*.csv
 /19_Text_Files/03_Writing_Text_Files/*.txt
 /19_Text_Files/03_Writing_Text_Files/*.csv
+/19_Text_Files/04_Exercises/*.txt
+/19_Text_Files/04_Exercises/*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
