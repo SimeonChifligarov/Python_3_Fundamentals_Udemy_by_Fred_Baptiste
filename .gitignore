@@ -11,6 +11,9 @@ python-fundamentals-main/
 /19_Text_Files/03_Writing_Text_Files/*.csv
 /19_Text_Files/04_Exercises/*.txt
 /19_Text_Files/04_Exercises/*.csv
+/22_CSV_Module/05_Writing_CSV_Files/*.csv
+/22_CSV_Module/06_Exercises/*.csv
+/22_CSV_Module/06_Exercises/*.tsv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
