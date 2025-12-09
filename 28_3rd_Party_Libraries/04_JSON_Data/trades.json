@@ -1,0 +1,20 @@
+[
+  {
+    "price": 110.2534,
+    "quantity": 100,
+    "symbol": "AAPL",
+    "timestamp": "2020-09-21T10:15:00"
+  },
+  {
+    "price": 202.9877,
+    "quantity": 50,
+    "symbol": "MSFT",
+    "timestamp": "2020-09-21T10:30:05"
+  },
+  {
+    "price": 420.1,
+    "quantity": 10,
+    "symbol": "TSLA",
+    "timestamp": "2020-09-21T11:00:00"
+  }
+]
